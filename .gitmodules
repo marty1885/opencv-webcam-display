@@ -1,0 +1,9 @@
+[submodule "third_party/imgui-sfml"]
+	path = third_party/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml
+[submodule "build/third_party/imgui"]
+	path = build/third_party/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "third_party/imgui"]
+	path = third_party/imgui
+	url = https://github.com/ocornut/imgui.git
